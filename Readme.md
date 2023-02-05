@@ -25,5 +25,7 @@ make
 ```
 
 ## Usage
-./exportRGBD path_to_recorded_mkv path_to_export_dir crop_width crop_height
 
+```
+./exportRGBD path_to_recorded_mkv path_to_export_dir crop_width crop_height
+```
